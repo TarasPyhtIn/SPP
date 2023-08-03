@@ -1,9 +1,9 @@
 import datetime
 from telethon import TelegramClient, events  # Імпортуємо потрібні бібліотеки
 
-api_id = 27273279
-api_idl = "460db73b061ddd62432da4a1aca57b58"
-target_can = 1488171183 # Вводимо id в який будемо пересилати повідомлення
+api_id = 
+api_idl = ""
+target_can =  # Вводимо id в який будемо пересилати повідомлення
 
 key_words_test =['що по парі?', 'Що по парі?', 'para']
 key_words_test1=['Повітряна тривога в Київській області!']
